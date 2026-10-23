@@ -79,7 +79,8 @@ byMoments/
 
 ## 🛡️ Derechos de autor y uso
 
-© 2026 **Julián Alberto Ramírez · RAM Corp**. Todos los derechos reservados.
+© 2026 **RAM Corp · Julián Alberto Ramírez**.  
+Todos los derechos reservados.
 
 **Condiciones de uso:**
 - Licencia privada.
