@@ -1,9 +1,9 @@
 # ✨ byMoments
 
-![Estado](https://img.shields.io/badge/Estado-En_desarrollo-orange)
+![Estado](https://img.shields.io/badge/Estado-Versi%C3%B3n_1.0.0_funcional-228B22)
 ![Plataformas](https://img.shields.io/badge/Plataformas-Web_y_Mobile-2563EB)
 ![Licencia](https://img.shields.io/badge/Licencia-Privada-red)
-![Inicio del proyecto](https://img.shields.io/badge/Inicio-2026--08--01-lightgrey)
+![Inicio del proyecto](https://img.shields.io/badge/Inicio-2026--10--23-lightgrey)
 
 ## 📋 Descripción
 
@@ -52,8 +52,7 @@ Combina herramientas de composición visual, plantillas personalizables y experi
 
 **Plataformas**
 
-![Web](https://img.shields.io/badge/Web-Responsive-2563EB)
-![Mobile](https://img.shields.io/badge/Mobile-Responsive-7C3AED)
+![Aplicación web](https://img.shields.io/badge/Aplicaci%C3%B3n-Web-0066CC) ![Experiencia móvil](https://img.shields.io/badge/Experiencia-M%C3%B3vil-7C3AED)
 
 ## 📂 Estructura del proyecto
 
@@ -78,7 +77,7 @@ byMoments/
 
 Proyecto de desarrollo privado. Todos los derechos reservados.
 
-© 2026 Julian Alberto Ramirez. Prohibida la reproducción, distribución o explotación comercial sin autorización.
+**© 2026 Julian Alberto Ramirez · RAM Corp.** Todos los derechos reservados. Prohibida la reproducción, distribución o explotación comercial sin autorización.
 
 ## 📬 Contacto
 
@@ -95,6 +94,5 @@ Proyecto de desarrollo privado. Todos los derechos reservados.
 
 ## 📅 Historial de versiones
 
-🔹 **Inicio documentado del proyecto:** 2026-08-01  
-🔹 **Estado actual:** En desarrollo y evolución funcional  
-🔹 **Documentación pública:** 1.1.0
+🔹 **Versión actual:** 1.0.0  
+🔹 **Última actualización:** 2026-10-23
