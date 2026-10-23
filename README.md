@@ -91,15 +91,15 @@ Todos los derechos reservados.
        alt="RAM Corp"
        width="120">
 </p>
+Ecosistema tecnológico enfocado en ingeniería de software, inteligencia artificial, automatización, infraestructura digital, innovación y desarrollo de productos tecnológicos.
 
-**RAM Corp** · Ecosistema tecnológico enfocado en ingeniería de software, inteligencia artificial, automatización, infraestructura digital, innovación y desarrollo de productos tecnológicos.
 
-**Julian Alberto Ramirez**  
+## **Julian Alberto Ramirez**  
 🎓 Ingeniero de Sistemas  
 💻 Desarrollador Full Stack Senior y ABAP Developer  
 🚀 Desarrollo de software, automatización e innovación
 
-📧 [juliram81@hotmail.com](mailto:juliram81@hotmail.com)  
+📧 [e-mail](mailto:juliram81@hotmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/julianramirezc)  
 🌐 [Portafolio](https://jramirez.womosolucions.com/)
 
