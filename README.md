@@ -86,7 +86,11 @@ Todos los derechos reservados.
 - Los derechos de terceros sobre tecnologías y dependencias permanecen con sus respectivos titulares.
 
 ## 📬 Contacto corporativo
-
+<p align="center">
+  <img src=".github/assets/ram-corp.png"
+       alt="RAM Corp"
+       width="160">
+</p>
 **RAM Corp** · Ecosistema tecnológico enfocado en ingeniería de software, inteligencia artificial, automatización, infraestructura digital, innovación y desarrollo de productos tecnológicos.
 
 **Julian Alberto Ramirez**  
