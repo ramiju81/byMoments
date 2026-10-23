@@ -3,7 +3,7 @@
 ![Estado](https://img.shields.io/badge/Estado-Versi%C3%B3n_1.0.0_funcional-228B22)
 ![Plataformas](https://img.shields.io/badge/Plataformas-Web_y_Mobile-2563EB)
 ![Licencia](https://img.shields.io/badge/Licencia-Privada-red)
-![Actualización](https://img.shields.io/badge/Actualizado-09_Ago_2026-lightgrey)
+![Actualización](https://img.shields.io/badge/Actualizado-06_Sept_2026-lightgrey)
 
 ## 📋 Descripción del proyecto
 
@@ -120,4 +120,4 @@ Este proyecto está orientado a:
 
 ## 📅 Control de versiones
 
-![Versión](https://img.shields.io/badge/Versi%C3%B3n-1.0.0-blue) ![Última actualización](https://img.shields.io/badge/Actualizado-09_Ago_2026-green)
+![Versión](https://img.shields.io/badge/Versi%C3%B3n-1.0.0-blue) ![Documentación](https://img.shields.io/badge/Portafolio-Presentaci%C3%B3n_p%C3%BAblica-blue) ![Última actualización](https://img.shields.io/badge/Actualizado-06_Sept_2026-green)
