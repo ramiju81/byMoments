@@ -3,9 +3,9 @@
 ![Estado](https://img.shields.io/badge/Estado-Versi%C3%B3n_1.0.0_funcional-228B22)
 ![Plataformas](https://img.shields.io/badge/Plataformas-Web_y_Mobile-2563EB)
 ![Licencia](https://img.shields.io/badge/Licencia-Privada-red)
-![Inicio del proyecto](https://img.shields.io/badge/Inicio-2026--10--23-lightgrey)
+![Actualización](https://img.shields.io/badge/Actualizado-23_Oct_2026-lightgrey)
 
-## 📋 Descripción
+## 📋 Descripción del proyecto
 
 **byMoments** es una aplicación web y móvil orientada a crear, personalizar y compartir experiencias digitales para momentos especiales.
 
@@ -17,7 +17,7 @@ Combina herramientas de composición visual, plantillas personalizables y experi
 - Brindar una experiencia intuitiva y adaptable a web y dispositivos móviles.
 - Integrar gestión de usuarios, almacenamiento y publicación de creaciones.
 
-## 🌟 Características principales
+## 🔍 Características clave
 
 - 🎨 **Editor visual:** personalización de composiciones y elementos gráficos.
 - 📱 **Diseño adaptable:** experiencia optimizada para pantallas de escritorio y móviles.
@@ -29,7 +29,7 @@ Combina herramientas de composición visual, plantillas personalizables y experi
 - 📍 **Ubicación:** integración de experiencias con información geográfica.
 - 🛠️ **Administración:** herramientas para la gestión de la plataforma.
 
-## 🛠 Tecnologías utilizadas
+## 🛠 Stack tecnológico
 
 **Frontend y experiencia de usuario**
 
@@ -54,32 +54,41 @@ Combina herramientas de composición visual, plantillas personalizables y experi
 
 ![Aplicación web](https://img.shields.io/badge/Aplicaci%C3%B3n-Web-0066CC) ![Experiencia móvil](https://img.shields.io/badge/Experiencia-M%C3%B3vil-7C3AED)
 
-## 📂 Estructura del proyecto
+## 🖥️ Estructura del proyecto
 
 ```text
 byMoments/
-├── Frontend/
-│   ├── Interfaz de usuario
-│   ├── Editor visual
-│   ├── Plantillas
-│   └── Experiencia móvil
-├── Backend/
-│   ├── Servicios y API
-│   ├── Autenticación
-│   ├── Gestión de contenidos
-│   └── Persistencia
-└── Documentación/
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── features/
+│   │   ├── hooks/
+│   │   ├── services/
+│   │   └── styles/
+│   └── public/
+├── backend/
+│   ├── api/
+│   ├── models/
+│   ├── services/
+│   └── tests/
+└── docs/
 ```
 
-*Representación funcional simplificada de los módulos del aplicativo.*
+*Organización técnica de referencia por responsabilidades.*
 
-## 📄 Licencia
+## 🛡️ Derechos de autor y uso
 
-Proyecto de desarrollo privado. Todos los derechos reservados.
+© 2026 **Julián Alberto Ramírez · RAM Corp**. Todos los derechos reservados.
 
-**© 2026 Julian Alberto Ramirez · RAM Corp.** Todos los derechos reservados. Prohibida la reproducción, distribución o explotación comercial sin autorización.
+**Condiciones de uso:**
+- Licencia privada.
+- Prohibida la reproducción, distribución o explotación comercial sin autorización expresa.
+- Los derechos de terceros sobre tecnologías y dependencias permanecen con sus respectivos titulares.
 
-## 📬 Contacto
+## 📬 Contacto corporativo
+
+**RAM Corp** · Desarrollo de soluciones digitales
 
 **Julian Alberto Ramirez**  
 🎓 Ingeniero de Sistemas  
@@ -92,7 +101,6 @@ Proyecto de desarrollo privado. Todos los derechos reservados.
 
 ---
 
-## 📅 Historial de versiones
+## 📅 Control de versiones
 
-🔹 **Versión actual:** 1.0.0  
-🔹 **Última actualización:** 2026-10-23
+![Versión](https://img.shields.io/badge/Versi%C3%B3n-1.0.0-blue) ![Última actualización](https://img.shields.io/badge/Actualizado-23_Oct_2026-green)
