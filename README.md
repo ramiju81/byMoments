@@ -89,7 +89,7 @@ Todos los derechos reservados.
 
 ## 📬 Contacto corporativo
 
-**RAM Corp** · Desarrollo de soluciones digitales
+**RAM Corp** · Ecosistema tecnológico enfocado en ingeniería de software, inteligencia artificial, automatización, infraestructura digital, innovación y desarrollo de productos tecnológicos.
 
 **Julian Alberto Ramirez**  
 🎓 Ingeniero de Sistemas  
