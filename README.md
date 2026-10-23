@@ -1,67 +1,100 @@
 # ✨ byMoments
 
 ![Estado](https://img.shields.io/badge/Estado-En_desarrollo-orange)
-![Plataforma](https://img.shields.io/badge/Plataforma-Web_%7C_Mobile-blue)
-![Código original](https://img.shields.io/badge/Código_original-Privado-red)
-![Actualización](https://img.shields.io/badge/Actualización-2026--10--23-lightgrey)
+![Plataformas](https://img.shields.io/badge/Plataformas-Web_y_Mobile-2563EB)
+![Licencia](https://img.shields.io/badge/Licencia-Privada-red)
+![Inicio del proyecto](https://img.shields.io/badge/Inicio-2026--08--01-lightgrey)
 
 ## 📋 Descripción
 
-**byMoments** es un proyecto de aplicación web y móvil orientado a experiencias digitales personalizadas.
+**byMoments** es una aplicación web y móvil orientada a crear, personalizar y compartir experiencias digitales para momentos especiales.
 
-Su propuesta contempla una experiencia accesible desde diferentes dispositivos, con énfasis en la presentación de contenido digital y la experiencia de usuario.
+Combina herramientas de composición visual, plantillas personalizables y experiencias interactivas para facilitar la creación de contenidos adaptados a distintas ocasiones.
 
 **Objetivos del proyecto:**
-- Desarrollar una experiencia digital para web y dispositivos móviles.
-- Priorizar una interfaz adaptable y fácil de utilizar.
-- Aplicar buenas prácticas de ingeniería de software y diseño de interfaces.
+- Facilitar la creación de experiencias digitales personalizadas.
+- Ofrecer herramientas visuales para diseñar y editar contenidos.
+- Brindar una experiencia intuitiva y adaptable a web y dispositivos móviles.
+- Integrar gestión de usuarios, almacenamiento y publicación de creaciones.
 
-> **Nota:** La descripción presenta el propósito del proyecto; no constituye una declaración de que todas sus funcionalidades estén terminadas o disponibles públicamente.
+## 🌟 Características principales
+
+- 🎨 **Editor visual:** personalización de composiciones y elementos gráficos.
+- 📱 **Diseño adaptable:** experiencia optimizada para pantallas de escritorio y móviles.
+- 🧩 **Plantillas:** selección y adaptación de diseños para diferentes ocasiones.
+- ✨ **Creación de momentos:** configuración y composición de experiencias digitales.
+- 👁️ **Vista previa:** visualización de contenidos durante el proceso de edición.
+- 💾 **Gestión de creaciones:** guardado y recuperación de composiciones.
+- 🔐 **Cuentas de usuario:** acceso y gestión de sesiones.
+- 📍 **Ubicación:** integración de experiencias con información geográfica.
+- 🛠️ **Administración:** herramientas para la gestión de la plataforma.
 
 ## 🛠 Tecnologías utilizadas
 
-Las tecnologías específicas del aplicativo se documentarán aquí una vez contrastadas con el proyecto vigente. No se incluyen dependencias ni versiones sin confirmación.
+**Frontend y experiencia de usuario**
 
-**Plataformas previstas:**
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white)
 
-![Web](https://img.shields.io/badge/Web-Aplicación-blue)
-![Mobile](https://img.shields.io/badge/Mobile-Experiencia_móvil-purple)
+**Backend y servicios**
 
-La compatibilidad móvil descrita no implica publicación en tiendas de aplicaciones ni confirma una implementación nativa.
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+
+**Persistencia e infraestructura**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+**Plataformas**
+
+![Web](https://img.shields.io/badge/Web-Responsive-2563EB)
+![Mobile](https://img.shields.io/badge/Mobile-Responsive-7C3AED)
 
 ## 📂 Estructura del proyecto
 
 ```text
 byMoments/
-└── README.md
+├── Frontend/
+│   ├── Interfaz de usuario
+│   ├── Editor visual
+│   ├── Plantillas
+│   └── Experiencia móvil
+├── Backend/
+│   ├── Servicios y API
+│   ├── Autenticación
+│   ├── Gestión de contenidos
+│   └── Persistencia
+└── Documentación/
 ```
 
-*Repositorio público de presentación. La estructura real, los servicios internos y el código fuente del aplicativo no se publican aquí.*
+*Representación funcional simplificada de los módulos del aplicativo.*
 
-## 🔒 Propiedad intelectual
+## 📄 Licencia
 
-Este repositorio presenta información general del proyecto con fines de portafolio profesional. No incluye código fuente original, lógica de negocio, credenciales, contratos internos ni configuraciones de infraestructura.
+Proyecto de desarrollo privado. Todos los derechos reservados.
 
-**Sin licencia de reutilización concedida sobre el material propio.**
-
-© 2026 Julian Alberto Ramirez. Todos los derechos reservados, sin perjuicio de los derechos de terceros.
+© 2026 Julian Alberto Ramirez. Prohibida la reproducción, distribución o explotación comercial sin autorización.
 
 ## 📬 Contacto
 
-**Julian Alberto Ramirez**
-
+**Julian Alberto Ramirez**  
 🎓 Ingeniero de Sistemas  
-💻 Desarrollador Full Stack Senior | ABAP Developer
+💻 Desarrollador Full Stack Senior y ABAP Developer  
+🚀 Desarrollo de software, automatización e innovación
 
-🔗 [Portafolio](https://jramirez.womosolucions.com/)  
-🔗 [LinkedIn](https://linkedin.com/in/julianramirezc)
+📧 [juliram81@hotmail.com](mailto:juliram81@hotmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/julianramirezc)  
+🌐 [Portafolio](https://jramirez.womosolucions.com/)
 
 ---
 
 ## 📅 Historial de versiones
 
-🔹 Versión de documentación pública: 1.0.0  
-🔹 Estado: En desarrollo  
-🔹 Última actualización de esta presentación: 2026-10-23
-
-*La versión de documentación pública no representa la versión del aplicativo privado.*
+🔹 **Inicio documentado del proyecto:** 2026-08-01  
+🔹 **Estado actual:** En desarrollo y evolución funcional  
+🔹 **Documentación pública:** 1.1.0
