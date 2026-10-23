@@ -58,24 +58,16 @@ Combina herramientas de composición visual, plantillas personalizables y experi
 
 ```text
 byMoments/
+├── README.md
 ├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── features/
-│   │   ├── hooks/
-│   │   ├── services/
-│   │   └── styles/
-│   └── public/
+│   └── README.md
 ├── backend/
-│   ├── api/
-│   ├── models/
-│   ├── services/
-│   └── tests/
+│   └── README.md
 └── docs/
+    └── README.md
 ```
 
-*Organización técnica de referencia por responsabilidades.*
+*Áreas de documentación pública del producto.*
 
 ## 🛡️ Derechos de autor y uso
 
