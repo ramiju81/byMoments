@@ -7,7 +7,7 @@
 
 ## 📋 Descripción del proyecto
 
-**byMoments** es una aplicación web y móvil orientada a crear, personalizar y compartir experiencias digitales para momentos especiales.
+Es una aplicación web y móvil orientada a crear, personalizar y compartir experiencias digitales para momentos especiales.
 
 Combina herramientas de composición visual, plantillas personalizables y experiencias interactivas para facilitar la creación de contenidos adaptados a distintas ocasiones.
 
