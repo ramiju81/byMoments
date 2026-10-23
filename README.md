@@ -101,6 +101,19 @@ byMoments/
 
 ---
 
+## 💡 Notas técnicas
+
+Este proyecto está orientado a:
+
+✅ Crear experiencias digitales personalizadas con una interfaz intuitiva.  
+✅ Facilitar la composición y edición visual de contenidos.  
+✅ Ofrecer una experiencia adaptable a web y dispositivos móviles.  
+✅ Integrar servicios, persistencia y gestión de usuarios.
+
+**Tecnología y creatividad para transformar momentos en experiencias digitales.**
+
+---
+
 ## 📅 Control de versiones
 
 ![Versión](https://img.shields.io/badge/Versi%C3%B3n-1.0.0-blue) ![Última actualización](https://img.shields.io/badge/Actualizado-23_Oct_2026-green)
