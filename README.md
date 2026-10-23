@@ -89,7 +89,7 @@ Todos los derechos reservados.
 <p align="left">
   <img src=".github/assets/RAM-Corp.png"
        alt="RAM Corp"
-       width="120">
+       width="80">
 </p>
 
 **RAM Corp** · Ecosistema tecnológico enfocado en ingeniería de software, inteligencia artificial, automatización, infraestructura digital, innovación y desarrollo de productos tecnológicos.
