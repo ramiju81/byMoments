@@ -1,6 +1,6 @@
 # ✨ byMoments
 
-![Estado](https://img.shields.io/badge/Estado-Validaci%C3%B3n_LOCAL_aprobada-228B22)
+![Estado](https://img.shields.io/badge/Estado-Desarrollo_activo-228B22)
 ![Plataformas](https://img.shields.io/badge/Plataformas-Web_&_Mobile-2563EB)
 ![Licencia](https://img.shields.io/badge/Licencia-Privada-red)
 ![Actualización](https://img.shields.io/badge/Actualizado-06_Oct_2026-lightgrey)
