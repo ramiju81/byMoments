@@ -1,13 +1,13 @@
 # ✨ byMoments
 
-![Estado](https://img.shields.io/badge/Estado-Versi%C3%B3n_1.0.0_funcional-228B22)
+![Estado](https://img.shields.io/badge/Estado-Validaci%C3%B3n_LOCAL_aprobada-228B22)
 ![Plataformas](https://img.shields.io/badge/Plataformas-Web_&_Mobile-2563EB)
 ![Licencia](https://img.shields.io/badge/Licencia-Privada-red)
-![Actualización](https://img.shields.io/badge/Actualizado-06_Sept_2026-lightgrey)
+![Actualización](https://img.shields.io/badge/Actualizado-06_Oct_2026-lightgrey)
 
 ## 📋 Descripción del proyecto
 
-Es una aplicación web y móvil orientada a crear, personalizar y compartir experiencias digitales para momentos especiales.
+Es una aplicación web con experiencia adaptable a dispositivos móviles, orientada a crear, personalizar y compartir experiencias digitales para momentos especiales.
 
 Combina herramientas de composición visual, plantillas personalizables y experiencias interactivas para facilitar la creación de contenidos adaptados a distintas ocasiones.
 
@@ -19,15 +19,17 @@ Combina herramientas de composición visual, plantillas personalizables y experi
 
 ## 🔍 Características clave
 
-- 🎨 **Editor visual:** personalización de composiciones y elementos gráficos.
+- 🎨 **Editor visual:** composición contextual de texto, imágenes, video, audio y ubicación, con orientación vertical y horizontal.
 - 📱 **Diseño adaptable:** experiencia optimizada para pantallas de escritorio y móviles.
-- 🧩 **Plantillas:** selección y adaptación de diseños para diferentes ocasiones.
+- 🧩 **Plantillas por ocasión:** selección y adaptación de diseños para diferentes celebraciones y momentos.
 - ✨ **Creación de momentos:** configuración y composición de experiencias digitales.
-- 👁️ **Vista previa:** visualización de contenidos durante el proceso de edición.
-- 💾 **Gestión de creaciones:** guardado y recuperación de composiciones.
+- 👁️ **Vista previa:** visualización prioritaria del contenido móvil durante la edición.
+- 💾 **Gestión de creaciones:** guardado persistente, recuperación de borradores y separación por cuenta.
 - 🔐 **Cuentas de usuario:** acceso y gestión de sesiones.
-- 📍 **Ubicación:** integración de experiencias con información geográfica.
-- 🛠️ **Administración:** herramientas para la gestión de la plataforma.
+- 📍 **Ubicación:** incorporación de información geográfica y mapas en los momentos.
+- 🎁 **Publicación y entrega:** publicación con vigencia y experiencia interactiva de apertura para destinatarios.
+- 🌓 **Apariencia:** temas claro y oscuro, con experiencia web progresiva (PWA).
+- 🛠️ **Administración:** configuración, gestión de usuarios, estados y sesiones.
 
 ## 🛠 Stack tecnológico
 
@@ -43,11 +45,12 @@ Combina herramientas de composición visual, plantillas personalizables y experi
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-4051B5)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 
 **Persistencia e infraestructura**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 **Plataformas**
@@ -61,18 +64,18 @@ byMoments/
 ├── frontend/
 │   ├── src/
 │   │   ├── components/
-│   │   ├── pages/
-│   │   ├── features/
+│   │   ├── auth/
+│   │   ├── store/
 │   │   ├── hooks/
 │   │   ├── services/
 │   │   └── styles/
 │   └── public/
 ├── backend/
-│   ├── api/
-│   ├── models/
-│   ├── services/
+│   ├── app/
 │   └── tests/
-└── docs/
+├── docs/
+├── runtime/
+└── scripts/
 ```
 
 ## 🛡️ Derechos de autor y uso
@@ -120,4 +123,4 @@ Este proyecto está orientado a:
 
 ## 📅 Control de versiones
 
-![Versión](https://img.shields.io/badge/Versi%C3%B3n-1.0.0-blue) ![Documentación](https://img.shields.io/badge/Portafolio-Presentaci%C3%B3n_p%C3%BAblica-blue) ![Última actualización](https://img.shields.io/badge/Actualizado-06_Sept_2026-green)
+![Versión](https://img.shields.io/badge/Portafolio-V2-blue) ![Documentación](https://img.shields.io/badge/Portafolio-Presentaci%C3%B3n_p%C3%BAblica-blue) ![Última actualización](https://img.shields.io/badge/Actualizado-06_Oct_2026-green)
