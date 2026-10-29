@@ -1,9 +1,9 @@
 # ✨ byMoments
 
-![Estado](https://img.shields.io/badge/Estado-En_pruebas_piloto-7C3AED)
-![Plataformas](https://img.shields.io/badge/Plataformas-Web_&_Mobile-2563EB)
-![Licencia](https://img.shields.io/badge/Licencia-Privada-red)
-![Actualización](https://img.shields.io/badge/Actualizado-06_Oct_2026-lightgrey)
+![Estado](https://img.shields.io/badge/Estado-En_pruebas_piloto-2F6F68)
+![Plataformas](https://img.shields.io/badge/Plataformas-Web_&_Mobile-315A6B)
+![Licencia](https://img.shields.io/badge/Licencia-Privada-475569)
+![Actualización](https://img.shields.io/badge/Actualizado-06_Oct_2026-94A3B8)
 
 ## 📋 Descripción del proyecto
 
@@ -123,4 +123,4 @@ Este proyecto está orientado a:
 
 ## 📅 Control de versiones
 
-![Versión](https://img.shields.io/badge/Frontend-2.0.0-blue) ![Documentación](https://img.shields.io/badge/Portafolio-Presentaci%C3%B3n_p%C3%BAblica-blue) ![Última actualización](https://img.shields.io/badge/Actualizado-06_Oct_2026-green)
+![Versión](https://img.shields.io/badge/Frontend-2.0.0-315A6B) ![Documentación](https://img.shields.io/badge/Portafolio-Presentaci%C3%B3n_p%C3%BAblica-blue) ![Última actualización](https://img.shields.io/badge/Actualizado-06_Oct_2026-94A3B8)
